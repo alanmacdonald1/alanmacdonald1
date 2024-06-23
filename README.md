@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋
 
+From modelling 🐟 to trying to centre a div.
+
+Dayjob: Providing programming assistance and building apps/services for marine researchers.
+
+Stuff not shown on this page: [harmful algal bloom app](https://play.google.com/store/apps/details?id=com.habapp)
+
+Main languages/frameworks used (from most to least frequent): Python, Django, Flutter, Javascript, SQL
+
+Currently learning: Go, HTMX
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-macdonald-a844bb277)
 <!--
-**alanmacdonald1/alanmacdonald1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
