@@ -2,6 +2,8 @@
 
 From modelling 🐟 to trying to centre a div.
 
+Decent googler.
+
 Dayjob: Providing programming assistance and building apps/services for marine researchers.
 
 Stuff not shown on this page: [harmful algal bloom app](https://play.google.com/store/apps/details?id=com.habapp)
