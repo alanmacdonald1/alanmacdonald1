@@ -1,11 +1,15 @@
 ## 👋
 
-From modelling 🐟 to trying to centre a div.
+From **modelling fish** 🐟 to  trying to center a div.
 
-Dayjob: Providing programming assistance and building apps/services for marine researchers.
+### 🎯 **Day Job:**  
+Building apps, services, and providing programming support for **marine researchers**.  
 
 
-- Language breakdown (public and private repos)
+### 🖥️ **Language Breakdown (Public & Private Repos)**  
+*Yeah... all that TypeScript? All forked. 🤷‍♂️*  
 
-Yeah all that typescript...that was forked.
-  <img src="language_usage.png" alt="language_usage" width="500">
+![language_usage](language_usage.png)
+
+
+
