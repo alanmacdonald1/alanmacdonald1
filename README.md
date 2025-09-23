@@ -42,7 +42,7 @@ I build apps and provide services for **marine researchers**
   Citizen science app for skate sightings in Scottish waters.
 
 - **HAB Reports**  
-  [Android](https://play.google.com/store/apps/details?id=com.habapp&hl=en) | *iOS link coming soon*  
+  [Android](https://play.google.com/store/apps/details?id=com.habapp&hl=en) | [iOS](https://apps.apple.com/br/app/skatespotter/id6743438295?l=en-GB)
   Reporting harmful algal blooms to marine monitoring programs.
 
  
