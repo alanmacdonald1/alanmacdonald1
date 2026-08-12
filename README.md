@@ -9,11 +9,8 @@ From **modelling fish** 🐟 to trying to center a div.
 - [Google Scholar](https://scholar.google.com/citations?user=9uRrPXsAAAAJ&hl=en)
 
 ---
-
 ### 🎯 Day Job
-
-I build apps and provide services for **marine researchers** 
-
+Full-stack developer at SAMS (Scottish Association for Marine Science), building apps and tools for marine researchers.
 ---
 
 ### 🧰 Current Day-to-Day Stack
